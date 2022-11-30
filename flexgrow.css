@@ -1,0 +1,51 @@
+main{
+    height: 800px;
+    width: 1000px;
+    /* background-color: aqua; */
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+}
+header{
+    background-color: crimson;
+    flex-grow: 1;
+    display: flex;
+}
+.logo{
+    background-color: cyan;
+    flex-grow: 1;
+}
+.head{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 4;
+}
+.heading{
+    background-color: chocolate;
+    flex-grow: 3;
+}
+.menu{
+    background-color: whitesmoke;
+    flex-grow: 2;
+}
+section{
+    background-color: chartreuse;
+    flex-grow: 5;
+    display: flex;
+}
+.one{
+    background-color: gray;
+    flex-grow: 1;
+}
+.two{
+    background-color: green;
+    flex-grow: 1;
+}
+.three{
+    background-color: darkviolet;
+    flex-grow: 1;
+}
+footer{
+    background-color: fuchsia;
+    flex-grow: 1;
+}

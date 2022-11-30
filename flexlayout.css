@@ -1,0 +1,46 @@
+main{
+    background-color: aqua;
+    border: 4px solid black;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+}
+header{
+    background-color: brown;
+    height: 20%;
+    display: flex;
+}
+.logo{
+    background-color: deeppink;
+    height: 100px;
+    width: 300px;
+}
+.heading{
+    background-color: aqua;
+    height: 150%;
+    width: 80%;
+}
+section{
+    background-color: blueviolet;
+    height: 80%;
+    display: flex;
+}
+aside{
+    background-color: darkgray;
+    height: 100%;
+    width: 80%;
+}
+article{
+    background-color: darkgoldenrod;
+    height: 100%;
+    width: 80%;
+}
+nav{
+    background-color: darkgreen;
+    height: 100%;
+    width: 80%;
+}
+footer{
+    background-color: chartreuse;
+    height: 20%;
+}

@@ -1,0 +1,63 @@
+
+.main{
+    width: 1000px;
+    height: 1000px;
+    background-color: lightgoldenrodyellow;
+    border: 3px solid black;
+    margin:  auto;
+   
+}
+
+.header{
+    width: 1000px;
+    height: 100px;
+    background-color: lightpink;
+}
+.logo
+{
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    float: left;
+}
+
+.nav1{
+    width: 900px;
+    height: 70px;
+    background-color: aqua;
+    float: left;
+}
+.nav2{
+    width: 900px;
+    height: 30px;
+    background-color: darkgrey;
+    float: left;
+}
+.body{
+    width: 1000px;
+    height: 800px;
+    background-color: darkgoldenrod;
+}
+.one{
+    width: 333px;
+    height: 800px;
+    background-color: deeppink;
+    float: left;
+}
+.two{
+    width: 333px;
+    height: 800px;
+    background-color: green;
+    float: left;
+}
+.three{
+    width: 333px;
+    height: 800px;
+    background-color: gold;
+    float: left;
+}
+.footer{
+    width: 1000px;
+    height: 100px;
+    background-color: firebrick;
+}

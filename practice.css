@@ -1,0 +1,29 @@
+.flex-container{
+    border: 5px solid black;
+    background-color: indianred;
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    /* justify-content: stretch; */
+    height: 70vh;
+    /* align-items: center ; */
+    /* align-content: flex-end; */
+    
+}
+.flex-item{
+    height: 50px;
+    width: 100px;
+    background-color: #f5deb3;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+#one{
+    flex-basis: 9;
+}
+#two{
+    flex-shrink: 2;
+}
+#three{
+    flex-shrink: 5;
+}

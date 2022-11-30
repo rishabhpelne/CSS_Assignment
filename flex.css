@@ -1,0 +1,45 @@
+.fcontainer{
+    border: 5px solid hwb(0 0% 0%);
+    height: 50vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* flex-flow: row wrap-reverse; */
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+.flex-item{
+    margin: 10px;
+    width: 100px;
+    
+}
+.item1{
+    background-color: aqua;
+    height: 50px;
+
+}
+.item2{
+    background-color: blue;
+    height: 50px;
+}
+.item3{
+    background-color: green;
+    height: 50px;
+}
+.item4{
+    background-color: gold;
+    height: 50px;
+}
+.item5{
+    background-color: darkmagenta;
+    height: 50px;
+}
+.item6{
+    background-color: black;
+    height: 50px;
+}
+.item7{
+    background-color: chartreuse;
+    height: 50px;
+}

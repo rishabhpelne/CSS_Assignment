@@ -1,0 +1,36 @@
+main{
+    height: 1000px;
+    width: 1000px;
+    background-color: deepskyblue;
+    margin: auto;
+    border: 4px solid black;
+}
+header{
+    height: 150px;
+    width: 1000px;
+    background-color: pink;
+}
+section{
+    height: 400px;
+    width: 500px;
+    background-color: chartreuse;
+    float: left;
+}
+aside{
+    height: 800px;
+    width: 500px;
+    background-color: deeppink;
+    float: right;
+}
+article{
+    height: 400px;
+    width: 500px;
+    background-color: green;
+    float: left;
+}
+footer{
+    height: 50px;
+    width: 1000px;
+    background-color: cyan;
+    float: left;
+}
